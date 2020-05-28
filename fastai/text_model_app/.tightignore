@@ -1,6 +1,12 @@
 # .tightignore is for much faster deployments. It works exactly like .gitignore
 
 
+# ignore git repo
+.git/
+
+# ignore code editor extensions
+.vscode/
+*.sublime-*
 
 
 .DS_Store
