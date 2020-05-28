@@ -1,3 +1,6 @@
+# required linux install scripts (for this project)
+
+# pytorch (cpu) and fast.ai install
 apt-get update && \
     apt-get -y install gcc mono-mcs && \
     rm -rf /var/lib/apt/lists/*
