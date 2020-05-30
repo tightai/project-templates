@@ -1,6 +1,4 @@
 import os
-import numpy as np
-from fastai.basic_train import load_learner
 
 # use absolute path to this entry file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
