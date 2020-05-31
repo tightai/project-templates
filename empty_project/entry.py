@@ -26,7 +26,7 @@ def run(
         "form_data": form_data,
         "metadata": metadata,
         "headers": headers
-    }]
+    }
     '''
     This function is called on any given request to your hosted tight.ai project version (app). 
 
